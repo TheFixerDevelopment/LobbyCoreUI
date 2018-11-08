@@ -1,5 +1,5 @@
 name: LobbyCore
 main: many1337\Main
-api: [3.0.0, 4.0.0, 3.2.0, 3.2.3]
+api: [3.0.0, 3.2.0, 3.2.3]
 author: many1337
 version: 1.0.0
